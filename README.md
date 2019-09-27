@@ -1,0 +1,1 @@
+##此项目模仿[Ewall1106/mall](https://github.com/Ewall1106/mall)的vue商城
