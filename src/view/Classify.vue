@@ -268,7 +268,7 @@ export default {
     },
     goList(item) {
       this.$router.push({
-        path: "/goodList",
+        path: "/goodsList",
         query: {
           name: item.name
         }
